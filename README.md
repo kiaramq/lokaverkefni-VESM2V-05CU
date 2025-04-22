@@ -4,20 +4,23 @@
 
 
 2. Stutt lýsing og höfundar.
-  Verkefnið snýst um Terminator og beacon ljós. Terminatorinn hefur:
-  - LED augu
-  - Mótor sem hreyfir höfuðið til hægri og vinstri
-  - Hreyfanlegan kjálka og hátalara til að tala
+Verkefnið snýst um Terminator og Beacon ljósakerfi sem vinna saman til að skynja og bregðast við nálægð. Þetta er gagnvirkt vélmenni og öryggiskerfi sem nota skynjara, ljós og hljóð til að greina og viðvara umhverfisáreiti.
 
-  Beacon ljós hefur:
-  - LED ljós
-  - Hátalara
-  - Marga skynjara á kringum beacon sem kallar í Terminatorinn ef einhver eða eithvað nálgast.
+Terminatorinn:
+-Hefur LED augu sem gefa frá sér lýsingu.
+-Hreyfir höfuðið til hægri og vinstri með mótor.
+-Hefur hreyfanlegan kjálka og hátalara til að "tala" eða gefa frá sér hljóð.
 
-  Virknin:
-  -  Þegar enginn er innan skynjunarsviðs birtist grænt ljós
-  -  Þegar einhver nálgast breytist ljósið í appelsínugult
-  -  Ef þú ert mjög nálægt blikkar það rautt og gefur frá sér viðvörunartón.
+Beacon ljósið:
+-Inniheldur LED ljós sem breyta litum eftir nálægð.
+-Hefur hátalara sem gefur frá sér viðvörunartón.
+-Notar marga skynjara í kringum sig til að greina nálægð fólks eða hluta.
+-Kallar í Terminatorinn þegar hætta eða nærvera er greind.
+
+Virkni:
+-Enginn nálægt: Grænt ljós lýsir.
+-Nálægð greind: Ljósið verður appelsínugult.
+-Mjög nálægt: Ljósið blikkar rautt og hátalari gefur frá sér viðvörunartón.
 
 4. Ljósmyndir af mekaník, samsettningu á leikmunum.
 
