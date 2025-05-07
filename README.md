@@ -9,7 +9,7 @@ Verkefnið snýst um Terminator og Beacon ljósakerfi sem vinna saman til að sk
 Terminatorinn:
 -Hefur LED augu sem gefa frá sér lýsingu.
 -Hreyfir höfuðið til hægri og vinstri með mótor.
--Hefur hreyfanlegan kjálka og hátalara til að "tala" eða gefa frá sér hljóð.
+-Hefur hátalara til að "tala" eða gefa frá sér hljóð.
 -Hefur 2 hendur.
 
 Beacon ljósið:
