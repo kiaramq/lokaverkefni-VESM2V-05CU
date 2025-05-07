@@ -27,9 +27,15 @@ Virkni:
 
 
 5. Íhlutalisti, allir íhlutir sem notaðir eru í verkefnið.
+   - PVC pípur
+   - 1 mótor servo fyrir hálsinn og 2 mótor servo fyrir hendurnar
+   - DFP Player fyrir hljóðið
+   - 2 led fyrir augu 
+   - 2 ESP32( 1 fyrir terminator og 1 fyrir beacon)
+   - 
 
 
-6. Flæðirit (e. flow chart) af senu.
+7. Flæðirit (e. flow chart) af senu.
 
 
 9. Yfirlitsmynd af tengingum íhluta fyrir leikmuni draw.io.
