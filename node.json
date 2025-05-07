@@ -199,10 +199,24 @@
     "order": 1
   },
   {
-    "id": "mqttBroker",
-    "type": "mqtt-broker",
-    "name": "Local MQTT",
-    "broker": "localhost",
-    "port": "1883"
+  "id": "mqttBroker",
+  "type": "mqtt-broker",
+  "name": "Mosquitto Test",
+  "broker": "test.mosquitto.org",
+  "port": "1883",
+  "clientid": "",
+  "usetls": false,
+  "compatmode": true,
+  "keepalive": "60",
+  "cleansession": true,
+  "birthTopic": "",
+  "birthQos": "0",
+  "birthPayload": "",
+  "closeTopic": "",
+  "closePayload": "",
+  "willTopic": "",
+  "willQos": "0",
+  "willPayload": ""
   }
+
 ]
