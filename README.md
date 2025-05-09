@@ -31,12 +31,13 @@ Virkni:
    - 1 mótor servo fyrir hálsinn og 2 mótor servo fyrir hendurnar
    - DFP Player fyrir hljóðið
    - 2 led fyrir augu 
-   - 2 ESP32( 1 fyrir terminator og 1 fyrir beacon)
-   - 
-
-
-7. Flæðirit (e. flow chart) af senu.
-
+   - 2 ESP32(1 fyrir terminator og 1 fyrir beacon)
+   - 2 breadboard(1 fyrir terminator og 1 fyrir beacon)
+   - ID Skynjari
+   - Hátalari
+   - NeoPixel rings
+   - 3d prentuð terminator höfuð
+   - 3d prentuð beacon
 
 9. Yfirlitsmynd af tengingum íhluta fyrir leikmuni draw.io.
 
