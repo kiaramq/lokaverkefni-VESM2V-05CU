@@ -35,13 +35,7 @@ Virkni:
    - 2 breadboard(1 fyrir terminator og 1 fyrir beacon)
    - ID Skynjari
      
-        Appelsínugult – 4
-        Hvít – 5
-        Cyan – 7
-        Fjólublátt – 3
-        Blátt – 9
-        Gult – gnd
-        Brúnt – 3.3 v
+        Appelsínugult – 4, Hvít – 5, Cyan – 7, Fjólublátt – 3, Blátt – 9, Gult – gnd, Brúnt – 3.3v
      (skynjarakóðinn er í Terminator ESP32, copy paste í beacon ESP32)
 
    - 4 skynjara í kringum beacon
