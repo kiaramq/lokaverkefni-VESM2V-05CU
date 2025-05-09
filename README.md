@@ -39,8 +39,4 @@ Virkni:
    - 3d prentuð terminator höfuð
    - 3d prentuð beacon
 
-9. Yfirlitsmynd af tengingum íhluta fyrir leikmuni draw.io.
-
-
-
 11. Tenglar á kóðaskrár vel commentað.
