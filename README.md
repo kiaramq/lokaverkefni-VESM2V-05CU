@@ -23,18 +23,19 @@ Virkni:
   - Nálægð greind: Ljósið verður appelsínugult.
   - Mjög nálægt: Ljósið blikkar rautt og hátalari gefur frá sér viðvörunartón.
 
-4. Ljósmyndir af mekaník, samsettningu á leikmunum.
+4. Ljósmyndir af mekaník, samsetningu á leikmunum.
 
 
 5. Íhlutalisti, allir íhlutir sem notaðir eru í verkefnið.
    - PVC pípur
    - 1 mótor servo fyrir hálsinn og 2 mótor servo fyrir hendurnar
-   - DFP Player fyrir hljóðið
+   - 2 DFP Player fyrir hljóðið(1 fyrir terminator og 1 fyrir beacon)
    - 2 led fyrir augu 
    - 2 ESP32(1 fyrir terminator og 1 fyrir beacon)
    - 2 breadboard(1 fyrir terminator og 1 fyrir beacon)
    - ID Skynjari
-   - Hátalari
+   - 4 skynjara í kringum beacon
+   - 2 Hátalari(1 fyrir terminator og 1 fyrir beacon)
    - NeoPixel rings
    - 3d prentuð terminator höfuð
    - 3d prentuð beacon
