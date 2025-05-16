@@ -4,7 +4,7 @@
 
 
 2. Stutt lýsing og höfundar.
-Verkefnið snýst um Terminator og Beacon ljósakerfi sem vinna saman til að skynja og bregðast við nálægð. Þetta er gagnvirkt vélmenni og öryggiskerfi sem nota skynjara, ljós og hljóð til að greina og viðvara umhverfisáreiti.
+Verkefnið snýst um Terminator og Beacon ljósakerfi sem vinna saman til að skynja og bregðast við nálægð. Þetta er gagnvirkt vélmenni og öryggiskerfi sem nota skynjara, ljós og hljóð til að greina og viðvara umhverfisáreiti. RFID Geta kvekja og slökkva beacon-ið
 
 Terminatorinn:
   - Hefur LED augu sem gefa frá sér lýsingu.
