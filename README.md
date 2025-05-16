@@ -46,4 +46,9 @@ Virkni:
    - 3d prentuð terminator höfuð
    - 3d prentuð beacon
 
-![node](myndir/syna/20250516_104024.jpg)
+# Myndir
+![idk](myndir/syna/20250516_104024.jpg)
+![idk](myndir/syna/20250516_110831.jpg)
+![idk](myndir/syna/20250516_110132.jpg)
+![idk](myndir/syna/20250516_110055.jpg)
+
