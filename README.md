@@ -17,6 +17,7 @@ Beacon ljósið:
   - Hefur hátalara sem gefur frá sér viðvörunartón.
   - Notar marga skynjara á kringum sig til að greina nálægð fólks eða hluta.
   - Kallar í Terminatorinn þegar hætta eða nærvera er greind.
+  - RFID Geta kvekja og slökkva beacon-ið
 
 Virkni:
   - Enginn nálægt: Grænt ljós lýsir.
