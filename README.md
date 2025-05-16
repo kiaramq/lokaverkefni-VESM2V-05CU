@@ -51,7 +51,8 @@ Virkni:
 ![idk](myndir/syna/20250516_110831.jpg)
 ![idk](myndir/syna/20250516_110132.jpg)
 ![idk](myndir/syna/20250516_110055.jpg)
-
+# Video
+[![Watch the video]](https://www.youtube.com/watch?v=HS9L7wyYIhY4)
 # Koði
 # Terminator
 ```python
