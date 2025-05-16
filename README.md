@@ -53,7 +53,8 @@ Virkni:
 ![idk](myndir/syna/20250516_110055.jpg)
 
 # Koði
-python```from mqtt_as import MQTTClient, config
+```python
+from mqtt_as import MQTTClient, config
 import asyncio
 from machine import Pin
 from neopixel import NeoPixel
