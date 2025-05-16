@@ -52,8 +52,9 @@ Virkni:
 ![idk](myndir/syna/20250516_110132.jpg)
 ![idk](myndir/syna/20250516_110055.jpg)
 # Video
-![Node-red partinn video link](https://www.youtube.com/watch?v=HS9L7wyYIhY4)
-![Beacon partinn video link](https://youtu.be/4LvO7NzyH7g)
+[![Node-red partinn video link](https://img.youtube.com/vi/HS9L7wyYIhY/0.jpg)](https://www.youtube.com/watch?v=HS9L7wyYIhY)
+[![Beacon partinn video link](https://img.youtube.com/vi/4LvO7NzyH7g/0.jpg)](https://youtu.be/4LvO7NzyH7g)
+
 
 # Koði
 # Terminator
