@@ -46,4 +46,4 @@ Virkni:
    - 3d prentuð terminator höfuð
    - 3d prentuð beacon
 
-![node](myndbönd/Node.mp4)
+![node](https://github.com/kiaramq/lokaverkefni-VESM2V-05CU/blob/main/myndb%C3%B6nd/Node.mp4)
