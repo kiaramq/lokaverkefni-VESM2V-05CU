@@ -51,7 +51,9 @@ Virkni:
 ![idk](myndir/syna/20250516_110831.jpg)
 ![idk](myndir/syna/20250516_110132.jpg)
 ![idk](myndir/syna/20250516_110055.jpg)
-python"""from mqtt_as import MQTTClient, config
+
+# Koði
+python```from mqtt_as import MQTTClient, config
 import asyncio
 from machine import Pin
 from neopixel import NeoPixel
@@ -244,4 +246,4 @@ client = MQTTClient(config)
 try:
     asyncio.run(main(client))
 finally:
-    client.close()"""
+    client.close()```
