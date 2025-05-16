@@ -46,4 +46,4 @@ Virkni:
    - 3d prentuð terminator höfuð
    - 3d prentuð beacon
 
-11. Tenglar á kóðaskrár vel commentað.
+![node](myndbönd/Node.mp4)
