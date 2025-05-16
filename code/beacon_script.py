@@ -136,8 +136,6 @@ def RFID_Connection():
             kortanumer = int.from_bytes(kortastrengur, "big")
             return kortanumer
     return None
-def beacon_script():
-    pass
 
 # Beacon Program
 async def main(client):
